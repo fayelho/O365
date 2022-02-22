@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package >
+  <metadata>
+    <id>O365</id>
+    <version>$version$</version>
+    <title>O365</title>
+    <authors>Fayçal</authors>
+    <owners>Fayçal</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Send emails using Office 365 Api</description>
+    <releaseNotes>Beta</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags></tags>
+  </metadata>
+</package>
