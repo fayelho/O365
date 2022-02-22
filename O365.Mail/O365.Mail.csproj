@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Fayçal Bouzid</Authors>
+    <Description>Sending emails using Office 365 Api withing MS Graph Authentication and managed identity</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Graph" Version="4.18.0" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.41.0" />
+  </ItemGroup>
+
+</Project>
